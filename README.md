@@ -37,19 +37,18 @@ JDK版本：1.8
 
 Node版本：14
 #### 四、运行截图（点图片可放大）
-![1701671254369](https://github.com/666bears/petmall/assets/143094776/729b506b-f3f2-44ff-a643-3c0a3266c7b4)
-![1701438381557](https://github.com/666bears/petmall/assets/143094776/150d0b0c-7c5b-4f1d-a8fd-d0cb4dc751af)
-![1701438433008](https://github.com/666bears/petmall/assets/143094776/937cb214-08dc-47db-be78-edeff305a57a)
-![Snipaste_2023-12-01_21-49-42](https://github.com/666bears/petmall/assets/143094776/3c22f226-f7e1-4f8f-be03-e37ef4f34206)
-![Snipaste_2023-12-01_21-50-10](https://github.com/666bears/petmall/assets/143094776/1f605b79-8005-423c-aadd-f782348fb392)
-![Snipaste_2023-12-01_21-50-10](https://github.com/666bears/petmall/assets/143094776/cf0ad392-ed4d-40d7-8bd7-fb1bdb3f827a)
-![Snipaste_2023-12-01_21-51-14](https://github.com/666bears/petmall/assets/143094776/0eff8607-aaa2-4439-903f-375ef79c44ce)
-![Snipaste_2023-12-01_21-51-49](https://github.com/666bears/petmall/assets/143094776/c0c9bc76-c962-497f-bbd6-a9ab7b5c3471)
-![Snipaste_2023-12-01_21-52-19](https://github.com/666bears/petmall/assets/143094776/1f43f8fc-2680-416e-84e2-df99c2d04b99)
-![Snipaste_2023-12-01_21-52-31](https://github.com/666bears/petmall/assets/143094776/258bba82-9a79-4c66-8091-9a5cf850a853)
-![Snipaste_2023-12-01_21-52-52](https://github.com/666bears/petmall/assets/143094776/ffadfd3f-f707-4d1a-9c84-a41f461b7888)
-![Snipaste_2023-12-01_21-53-13](https://github.com/666bears/petmall/assets/143094776/d98609a2-8df7-44ef-bc2c-21e4575b80e6)
-![Snipaste_2023-12-01_21-52-52](https://github.com/666bears/petmall/assets/143094776/f034b2ed-9869-417d-9bc2-3f48c5d73810)
+![Snipaste_2023-12-01_22-29-22](https://github.com/666bears/gymmings/assets/143094776/8f2e3b0b-affa-4996-9393-39f0d7664734)
+![Snipaste_2023-12-01_22-28-54](https://github.com/666bears/gymmings/assets/143094776/8a4a2b97-a8f0-40e4-9e86-923ce4490a9c)
+![Snipaste_2023-12-01_22-27-47](https://github.com/666bears/gymmings/assets/143094776/ea9b7cdf-f924-4c70-bfe8-33274e68d673)
+![Snipaste_2023-12-01_22-27-19](https://github.com/666bears/gymmings/assets/143094776/91820ca7-658d-4cef-8bc5-1196ad1e4cbc)
+![Snipaste_2023-12-01_22-26-48](https://github.com/666bears/gymmings/assets/143094776/2b4d7402-d49e-4e6d-adf1-7bcfc15366da)
+![Snipaste_2023-12-01_22-26-19](https://github.com/666bears/gymmings/assets/143094776/3d1a9c39-7c6b-462b-8b72-754d4b41b528)
+![Snipaste_2023-12-01_22-25-56](https://github.com/666bears/gymmings/assets/143094776/f1b87b61-05d7-4687-b0fc-5f90846984ac)
+![Snipaste_2023-12-01_22-24-47](https://github.com/666bears/gymmings/assets/143094776/3272979f-7a93-4681-8ac7-2faadeb70d3d)
+![Snipaste_2023-12-01_22-23-23](https://github.com/666bears/gymmings/assets/143094776/a55bdb73-f92b-42b7-a9f7-b6ff5e22f081)
+![1701671633584](https://github.com/666bears/gymmings/assets/143094776/02803420-54d1-42d9-ac2a-f94f4a1293a5)
+
+
 
 #### 五、安装教程
 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并导入项目的sql文件；
